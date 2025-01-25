@@ -27,7 +27,9 @@
 ![](https://github-contributor-stats.vercel.app/api?username=anushamahajan5&limit=5&theme=gitdimmed&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=anushamahajan5&icon=5&color=12)](https://visitcount.itsvg.in)
+[![anushamahajan5's GitHub | Stats](https://stats.quira.sh/anushamahajan5/github?theme=light)](https://quira.sh?utm_source=widgets&utm_campaign=anushamahajan5)
+
+[![anushamahajan5's GitHub | Languages Over Time](https://stats.quira.sh/anushamahajan5/languages-over-time?theme=light)](https://quira.sh?utm_source=widgets&utm_campaign=anushamahajan5)
 
 <!--
 **anushamahajan5/anushamahajan5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
