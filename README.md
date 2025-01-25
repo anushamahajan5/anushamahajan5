@@ -46,7 +46,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![anushamahajan5's GitHub | Languages Over Time](https://stats.quira.sh/anushamahajan5/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=anushamahajan5)
 
 
 
