@@ -1,27 +1,72 @@
-### Hi there 👋, I'm Anusha Mahajan
- # 💫 competitive Programming and tech enthusiast from India:
-- 👨🏼‍🎓 studying electronics and communication at IIT BHU
-- 🌱 I’m currently learning Full stack development, DSA, C++<br>
-- 👯 I’m looking to collaborate on interesting projects<br>
-- 📫 How to reach me: anusha.mahajan.ece21@itbhu.ac.in
+<div align="right">
+  <small>Light mode Recommended</small>
+</div>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anushaamahajan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anusha-mahajan-136771194/) 
+<h1 align="center"><b>Hi there</b> <picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="35" height="35">
+</picture>, I'm <br>Anusha Mahajan</h1>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=plastic&logo=github&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=plastic&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white)
+<h3 align="center">A passionate Software Developer & Problem Solver</h3>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=anushamahajan5&label=Profile%20views&color=0e75b6&style=flat" alt="anushamahajan5" /> </p>
 
+## **GITHUB TROPHIES** 🏆
+<img src="https://github-profile-trophy.vercel.app/?username=anushamahajan5&theme=onedark&column=-1&margin-w=8&no-frame=true&no-bg=true" alt="Trophies" />
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=anushamahajan5&theme=vue&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=anushamahajan5&theme=vue&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=anushamahajan5&theme=vue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+---
+
+### 👩‍💻 About Me
+
+- 🌱 I’m currently exploring **AI, Backend Systems, and Full Stack Development**
+- ✍️ I studied electronics and communication at IIT BHU
+- 🌱 I’m currently learning Full stack development, DSA, C++
+- 👯 I’m looking to collaborate on interesting projects
+- 📫 How to reach me: **anusha.mahajan.ece21@itbhu.ac.in**
+---
+
+### 🤝 Connect With Me
+
+<p align="center">
+    <a href="https://www.linkedin.com/in/anusha-mahajan-136771194/" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="70"></a>
+    <a href="https://discord.gg/nush_52291" target="blank"><img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="70"></a>
+</p>
+</p>
+
+---
+
+### 🛠️ Languages and Tools
+
+<p align="center">
+  <!-- Add/remove tech logos as per your stack -->
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,cpp,git,github,vscode,docker,postman,java,django,npm,pandas,numpy" />
+</p>
+
+---
+
+### 📚 Coding & Writing Platforms
+
+<p align="center">
+    <a href="https://www.codechef.com/users/anusha_mahajan" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" width="50" /></a>
+    <a href="https://leetcode.com/u/anusha-mahajan/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="50" /></a>
+    <a href="https://www.geeksforgeeks.org/user/anushamahajan5/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" width="50" /></a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+[![Anusha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anushamahajan5&show_icons=true&theme=default)](https://github.com/anushamahajan5)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anushamahajan5&theme=vue)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anushamahajan5&theme=vue)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=anushamahajan5&theme=vue)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anushamahajan5&theme=vue&utcOffset=5)
+
+---
+
+[![Anusha's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anushamahajan5&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/anushamahajan5)
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=anushamahajan5&limit=5&theme=gitdimmed&combine_all_yearly_contributions=true)
@@ -29,18 +74,6 @@
 ---
 <!--
 **anushamahajan5/anushamahajan5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 
 
