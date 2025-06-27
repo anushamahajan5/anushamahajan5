@@ -2,10 +2,7 @@
   <small>Light mode Recommended</small>
 </div>
 
-<h1 align="center"><b>Hi there</b> <picture>
-  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" type="image/webp">
-  👋
-</picture>, I'm <br>Anusha Mahajan</h1>
+<h1 align="center"><b>Hi there</b> 👋, I'm <br>Anusha Mahajan</h1>
 
 <h3 align="center">A passionate Software Developer & Problem Solver</h3>
 
