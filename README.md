@@ -9,7 +9,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=anushamahajan5&label=Profile%20views&color=0e75b6&style=flat" alt="anushamahajan5" /> </p>
 
 ## **GITHUB TROPHIES** 🏆
-<img src="https://github-profile-trophy.vercel.app/?username=anushamahajan5&theme=onedark&column=-1&margin-w=8&no-frame=true&no-bg=true" alt="Trophies" />
+[![trophy](https://github-profile-trophy.vercel.app/?username=anushamahajan5&theme=onedark)](https://github.com/anushamahajan5/github-profile-trophy)
 
 ---
 
