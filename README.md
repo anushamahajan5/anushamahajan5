@@ -8,11 +8,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=anushamahajan5&label=Profile%20views&color=0e75b6&style=flat" alt="anushamahajan5" /> </p>
 
-## **GITHUB TROPHIES** 🏆
-[![trophy](https://github-profile-trophy.vercel.app/?username=anushamahajan5&theme=onedark)](https://github.com/anushamahajan5/github-profile-trophy)
-[![trophy](https://github-profile-trophy.vercel.app/?username=anushamahajan5&theme=onedark)](https://github.com/anushamahajan5/github-profile-trophy)
-
----
 
 ### 👩‍💻 About Me
 
@@ -64,10 +59,6 @@
 ---
 
 [![Anusha's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anushamahajan5&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/anushamahajan5)
-
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=anushamahajan5&limit=5&theme=gitdimmed&combine_all_yearly_contributions=true)
 
 ---
 <!--
